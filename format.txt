@@ -1,0 +1,2 @@
+Hello. I'm feeling {mood} {smiley}. Random numbers are {int} and {float}
+{date} {time}: Today I'm feeling {mood} {smiley}. Integer is {int}. Float is {float}
